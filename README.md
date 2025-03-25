@@ -3,11 +3,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 Hola, soy un estudiante de analista en sistemas, tengo conocimientos amplios en Java, Html, Css, tambien estoy introduciendome en php.
 ** estoy interesado en algun trabajo tiempo medio, para ir aprendiendo mientras estudio **
 - Actualmente uso:
-  - Java
-- 👯 Estoy buscando y me interesaria trabajar en proyectos grupales, para ir incorporandome en el sistema laboral!
+  - Java,Php,Html,Css,Laravel
+- 👯 Estoy buscando y me interesaria trabajar en proyectos grupales, para ir incorporandome en el hambito laboral!
 
 __Check out my GitHub repository:__
