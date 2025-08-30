@@ -3,10 +3,6 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hola, soy un estudiante de analista en sistemas, tengo conocimientos amplios en Java, Html, Css, tambien estoy introduciendome en php.
-** estoy interesado en algun trabajo tiempo medio, para ir aprendiendo mientras estudio **
-- Actualmente uso:
-  - Java,Php,Html,Css,Laravel
-- 👯 Estoy buscando y me interesaria trabajar en proyectos grupales, para ir incorporandome en el hambito laboral!
+Estudiante de Analista en Sistemas con experiencia en Java, HTML, CSS y PHP. Busco posición de medio tiempo para aplicar mis conocimientos técnicos mientras continúo mis estudios. Orientado al aprendizaje continuo y al desarrollo profesional.
 
 __Check out my GitHub repository:__
